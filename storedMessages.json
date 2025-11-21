@@ -1,0 +1,10 @@
+[
+  {
+    "recipient": "+27830000000",
+    "message": "Sample stored message 1 from JSON file."
+  },
+  {
+    "recipient": "+27831111111",
+    "message": "Sample stored message 2 from JSON file."
+  }
+]
