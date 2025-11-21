@@ -1,10 +1,4 @@
-# PROG5121 POE – Message Application
 
-This project implements the **Part 3 – Store Data and Display Task Report** requirements
-for Programming 1A (PROG5121).
-
-The solution is designed to align closely with the **rubric** so that all features
-are implemented and testable.
 
 ## Project Structure
 
@@ -50,15 +44,7 @@ are implemented and testable.
    mvn test
    ```
 
-3. To run the demo `main` method:
-   - Run `MessageApp` from the IDE.
 
-## Notes for the Marker
-
-- Arrays and methods are intentionally written in a **clear, beginner‑friendly style**.
-- All rubric items for:
-  - Arrays correctly populated
-  - Longest message
   - Searching
   - Deleting using hash
   - Displaying report
